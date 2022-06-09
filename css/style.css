@@ -1,0 +1,600 @@
+.container{
+    width: 1240px;
+    margin: 0 auto;
+    font-family: 'Jura', sans-serif;
+}
+.p1{
+    font-size: 45px;
+}
+header{
+    width: 1240px;
+    height: 250px;
+}
+header a{
+    text-decoration: none;
+    margin: 50px;
+    color: rgba(0, 106, 167, 1);
+}
+.block{
+    position: absolute;
+    left: 386px;
+    top: 75px;
+    margin-left: 100px;
+}
+header a:hover{
+    text-decoration: underline;
+}
+.kozak{
+    position: absolute;
+    width: 379px;
+    height: 500px;
+    left: 791px;
+    top: 161px;
+    display: block;
+}
+.block-2{
+    width: 565px;
+    height: 290px;
+}
+.block-2 p{
+    font-size: 18px;
+    line-height: 25px;
+}
+.block-2 a{
+    padding: 20px;
+    background-color: #006AA7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    text-decoration: none;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    position: absolute;
+    margin-top: 20px;
+}
+.block-2 a:hover{
+    background: #0178BD;
+    text-decoration: underline;
+}
+.section-one{
+    background: rgba(0, 106, 167, 1);
+    width: 1100px;
+    height: 299px;
+    border-radius: 10px;
+}
+.p{
+    width: 807px;
+    height: 101px;
+    float: right;
+    color: white;
+    padding-top: 80px;
+    padding-right: 30px;
+}
+.centrum{
+    margin: 120px;
+    text-align: center;
+}
+.img{
+    margin: 25px;
+}
+.section-two{
+    display: flex;
+    flex-direction: row;
+    width: 1240px;
+    padding-right: 100px;
+}
+.o{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 100px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.o:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.t{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 300px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.t:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.thre{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 500px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.thre:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.f{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 700px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.f:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.fiv{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 900px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.fiv:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.s{
+    margin: 45px;
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    left: 1100px;
+    top: 1350px;
+    padding-top: 25px;
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 5px;
+}
+.s:hover{
+    background-color: rgba(0, 106, 167, 1);
+    transition: 0.5s;
+}
+.h22{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.h4{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.h44{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.h4-3{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.h4-4{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.h4-5{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.h4-6{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+.section-two img{
+    padding-right: 33px;
+    padding-left: 33px;
+}
+.vira_derzavnist{
+    display: flex;
+}
+.vira{
+    width: 520px;
+    margin-top: 410px;
+    font-size: 16px;
+    line-height: 19px;
+    background-color: #F9C00D;
+    border-radius: 10px;
+    flex-direction: row;
+    padding: 20px;
+}
+.derzavnist{
+    width: 520px;
+    margin-top: 410px;
+    font-size: 16px;
+    line-height: 19px;
+    background-color: #F9C00D;
+    border-radius: 10px;
+    flex-direction: row;
+    margin-left: 55px;
+    padding: 20px;
+}
+.block_1{
+    background-color: rgba(245, 245, 245, 1);
+    height: 200px;
+    border-radius: 10px;
+    width: 1175px;
+    margin-top: 30px;
+}
+.img_block{
+    float: right;
+    padding-bottom: 100px;
+    position: absolute;
+    left: 1126px;
+    top: 2270px;
+}
+.p2{
+    width: 919px;
+    margin: 25px;
+    padding-top: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.h444{
+    font-size: 21px;
+    position: absolute;
+    left: 600px;
+    top: 2210px;
+}
+.one_div{
+    background: #0178BD;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 16px;
+}
+.one_div p{
+    color: white;
+    font-size: 16px;
+}
+.two_div{
+    background: #0178BD;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 16px;
+}
+.two_div p{
+    color: white;
+    font-size: 16px;
+}
+.three_div{
+    background: #0178BD;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 16px;
+}
+.three_div p{
+    color: white;
+    font-size: 16px;
+}
+.four_div{
+    background: #0178BD;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 16px;
+}
+.four_div p{
+    color: white;
+    font-size: 16px;
+}
+.traditions_one{
+    display: flex;
+}
+.traditions_two{
+    display: flex;
+    padding: 20px;
+}
+.traditions_one div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 20px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.traditions_one div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_one div img{
+    padding: 10px;
+}
+.traditions_one div:hover{
+    background-color: #006AA7;
+}
+.traditions_two div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+.traditions_two div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_two div img{
+    padding: 10px;
+}
+.traditions_two div:hover{
+    background-color: #006AA7;
+}
+.traditions_img{
+    display: flex;
+    justify-content: space-around;
+}
+.modern_kozaky{
+    display: flex;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 24px;
+}
+.modern_kozaky div img{
+    margin: 10px;
+}
+body{
+    width: 1240px;
+    margin: 0 auto;
+    font-family: 'Jura';
+}
+.top{
+    display: flex;  
+}
+.long-block{
+    display: flex;
+   align-items : center;
+   margin-left: 300px;
+}
+.long-block a{
+    margin-left: 200px;
+    text-decoration: none;
+    color: #006AA7;
+}
+.long-block a:first-child{
+    margin: 0;
+}
+.h_text1{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: left;
+}
+.lower-block{
+    display: flex;
+}
+.p_text1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}
+.link_button1{
+    width: 250px;
+    height: 50px;
+    background-color: #006AA7;
+    padding: 20px;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    text-decoration: none;
+    color: white;
+}
+.link_button1:hover{
+    background-color: #0178BD;
+}
+.values{
+    width: 1100px;
+    height: 299px;
+    display: flex;
+    align-items: center;
+    background-color: #006AA7;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.values_info{
+    color: white;
+}
+.specifics{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+.item p{
+    border-top: 1px solid rgb(255, 0, 0);
+    border-bottom: 1px solid rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+.item:hover{
+    background-color: #006AA7;
+    border-radius: 10px;
+    color: white;
+}
+.specifics_info{
+    display: flex;
+    padding: 10px;
+}
+.info_one{
+    background-color: rgb(253, 186, 0);
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+    padding: 10px;
+}
+.info_one h4{
+    text-align: center;
+}
+.content_one{
+    display: flex;
+    align-items: center;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    padding: 10px;
+}
+.traditions_one{
+    display: flex;
+}
+.traditions_two{
+    display: flex;
+    padding: 20px;
+}
+.traditions_one div{
+    width: 250px;
+    height: 250px;
+    background-color: #006AA7;
+    border-radius: 10px;
+    margin: 20px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.traditions_one div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_one div img{
+    padding: 10px;
+}
+.traditions_two div{
+    width: 250px;
+    height: 250px;
+    background-color: #006AA7;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+    .traditions_two div p{
+        font-size: 16px;
+        line-height: 19px;
+        color: white;
+    }
+    .traditions_two div img{
+        padding: 10px;
+    }
+    .traditions_img{
+        display: flex;
+        justify-content: space-around;
+    }
+    .modern_kozaky{
+        display: flex;
+        margin: 0 auto;
+        background-color: #F5F5F5;
+        border-radius: 10px;
+        align-items: center;
+        font-size: 24px;
+        padding: 20px;
+    }
+    .modern_kozaky_img{
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+    }
+    .modern_kozaky1{
+        display: flex;
+        margin: 0 auto;
+        background-color: #006AA7;
+        border-radius: 10px;
+        align-items: center;
+        font-size: 24px;
+        padding: 20px;
+    }
+    .modern_kozaky1 p{
+        color: white;
+        text-align: center;
+    }
+    .modern_kozaky_img1{
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+    }
+    .history_info{
+        width: 1040px;
+        height: 200px;
+        display: flex;
+        border-radius: 10px;
+        font-weight: 800;
+        margin: 0 auto;
+    }
+    .history_info_block{
+        width: 560px;
+        background-color: rgb(253, 186, 0);
+        border-radius: 10px;
+        margin-left: 10px;
+        padding: 20px;
+    }
+    footer{
+        height: 100px;
+        text-align: center;
+        background-color: #006AA7;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+    }
+    h1{
+        text-align: center;
+    }
+    .history_img{
+        width: 1040px;
+        margin: 0 auto;
+        display: flex;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .history_img img{
+        width: 510px;
+        margin-left: 10px;
+    }
+.prezident{
+    border-radius: 100%;
+}
